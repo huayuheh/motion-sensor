@@ -1,0 +1,17 @@
+{
+  "name": "motion-nodejs",
+  "version": "1.0.0",
+  "authors": [
+    "Huayu (Hana) Heh"
+  ],
+  "description": "testing to control notion senser by nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "respository": {},
+  "license": "MIT",
+  "dependencies": {
+    "onoff": "^1.1.1"
+  }
+}
